@@ -17,7 +17,3 @@ C | Python | Java | Git | Linux | SQL
 
 ## 🌍 Connect with me
 Telegram: Guti_GOMD / Discord: night_68 
-
-## My Contributions
-
-![snake](https://github.com/USERNAME/USERNAME/blob/output/github-snake.svg)
