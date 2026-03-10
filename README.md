@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Von 👋
 
-<!--
-**gutigomd/gutigomd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Computer Science student    
+⚡ Interested in AI, startups and automation
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+C | Python | Java | Git | Linux | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- AI SaaS tool
+- Automation tools
+- Web experiments
+
+## 📈 GitHub Stats
+[(Click here)](https://github-readme-stats.vercel.app)
+
+## 🌍 Connect with me
+[Telegram](t.me/Guti_GOMD) / Discord: night_68 
+
+## 💻 Top languages
+[Click here](https://github-readme-stats.vercel.app/api/top-langs)
