@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="doc_2026-03-10_21-53-58.gif" />
+</p>
+
 # Hi, I'm Von 👋
 
 🚀 Computer Science student    
