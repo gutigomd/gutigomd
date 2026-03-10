@@ -11,11 +11,5 @@ C | Python | Java | Git | Linux | SQL
 - Automation tools
 - Web experiments
 
-## 📈 GitHub Stats
-[(Click here)](https://github-readme-stats.vercel.app)
-
 ## 🌍 Connect with me
 Telegram: Guti_GOMD / Discord: night_68 
-
-## 💻 Top languages
-[Click here](https://github-readme-stats.vercel.app/api/top-langs)
