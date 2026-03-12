@@ -8,7 +8,7 @@
 ⚡ Interested in AI, startups and automation
 
 ## 🛠 Tech Stack
-C | Python | Java | Git | Linux | SQL
+C | Python | Java | Git | Linux | SQL | n8n
 
 ## 🚀 Current Projects
 - AI SaaS tool
